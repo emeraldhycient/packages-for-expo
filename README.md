@@ -29,7 +29,7 @@ i will be uploading from time to time some important packages to achieve few thi
 
 ## Feedback
 
-after installing rainbow-me in expo , go to node_modules and find node_modules/@rainbow-me then open the node_modules inside of it and delete the react native gesture handler 
+after installing rainbow-me in expo , go to node_modules and find node_modules/@rainbow-me then open the node_modules inside of it and delete the react native gesture handler , if you also installed eact-native-reanimated go ahead and delete it from the node_modules above
 
 ## Demo
 
