@@ -17,6 +17,10 @@ i will be uploading from time to time some important packages to achieve few thi
 
 [React Native Bottom Sheet](https://gorhom.github.io/react-native-bottom-sheet/)
 
+[CoinGecko crypto market data](https://www.coingecko.com/en/api/documentation)
+
+
+
 
 ## Authors
 
