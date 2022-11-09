@@ -24,7 +24,7 @@ i will be uploading from time to time some important packages to achieve few thi
 
 ## Authors
 
-- [rainbow-me](https://github.com/rainbow-me/react-native-animated-charts)
+- [igweze hycient](https://github.com/emeraldhycient)
 
 
 ## Feedback
